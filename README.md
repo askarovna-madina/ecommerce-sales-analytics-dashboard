@@ -1,4 +1,3 @@
-# ecommerce-sales-analytics-dashboard
 # E-commerce Sales Analytics Dashboard
 
 Sales analytics dashboard for an online retail business based on the Online Retail dataset.
